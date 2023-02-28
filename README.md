@@ -1,3 +1,5 @@
+![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=werkzeug&package-manager=pip&previous-version=2.2.2&new-version=2.2.3)
+
 # crumbles
 
 A community-based ("Reddit-style") chat app built with Flask.
